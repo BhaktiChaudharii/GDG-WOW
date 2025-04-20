@@ -4,7 +4,7 @@ Welcome to the official repository for Google Developer Groups - Women of Wonder
 
 ## About GDG WOW
 
-GDG Women of Wonder (WOW) is an initiative focused on empowering women in technology through the Google Developer Groups community. We aim to create a supportive environment where women developers can learn, share knowledge, network, and grow their skills in various technology domains.
+GDG Wonder of Wonders (WOW) is an initiative focused on empowering women in technology through the Google Developer Groups community. We aim to create a supportive environment where women developers can learn, share knowledge, network, and grow their skills in various technology domains.
 
 ## Our Mission
 
